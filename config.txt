@@ -1,0 +1,4 @@
+text
+version=1.0
+autor=equipo
+coordenadas_predeterminadas=5,0
