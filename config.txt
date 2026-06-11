@@ -1,7 +1,7 @@
 version=1.0
 autor=equipo
-<<<<<<< HEAD
-coordenadas_predeterminadas=2,0
-=======
+coordenadas_predeterminadas=3,0
 coordenadas_predeterminadas=11,0
->>>>>>> f44a0f406ca57a8abacf5f1a0d1bdb5b6bb5c091
+coordenadas_predeterminadas=2,0
+coordenadas_predeterminadas=11,0
+
