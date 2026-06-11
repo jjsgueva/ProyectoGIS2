@@ -5,4 +5,5 @@ coordenadas_predeterminadas=3,0
 coordenadas_predeterminadas=4,0
 coordenadas_predeterminadas=5,0
 coordenadas_predeterminadas=6,0
+coordenadas_predeterminadas=8,0
 coordenadas_predeterminadas=11,0
